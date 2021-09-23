@@ -9,14 +9,14 @@ class Program{
 	public static void main(String[] args){
 		//ex1.File file;
 		
-		// ���� ����
+		// 변수 선언
 		int kor1, kor2, kor3;
 		int total;
 		float avg;
 		
 		byte x = (byte)1L; // ������� ���ĺ�ȯ
 		
-		// ����� 3���� �ʱ�ȭ
+		// 변수 초기화
 		kor1 = 40;
 		kor2 = 40;
 		kor3 = 50;
